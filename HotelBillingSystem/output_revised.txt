@@ -1,0 +1,4 @@
+
+testCalculateTotalBill=true
+testAddToCart=true
+testFindDiscount=true
